@@ -1,6 +1,6 @@
 # News App
 ### Built using React.JS with CORS-enabled backend in Flask (running on AWS server)
-### deep-learning classification model made using HuggingFace transformers 
+### Deep-learning classification model made using HuggingFace transformers 
 
 In this day and age, all the world's news are at our fingertips but instead of having to hunt them down individually, I decided to create an **aesthetically-pleasing**, **easy-to-use**, and **non-overwhelming** fullstack App capable of rendering all recent news using a News API.
 
