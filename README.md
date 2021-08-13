@@ -17,7 +17,7 @@ Each card shows the Title and author of the news article and is click-to-flip, w
 
 ![alt text](https://github.com/mxzahid/newsApp/blob/main/reactNewsClick.png?raw=true)
 
-The loading animation on the back finishes once the article goes through my **deep-learning transformer roBERTa model for classification with ~90% accuracy** (running on a flask backend on a linux AWS machine) and returns JSON which is used to create beautiful doughnut charts for ease of comprehension:
+Once the loading animation on the back finishes once the article goes through my **deep-learning transformer roBERTa model for classification with ~90% accuracy** (running on a flask backend on a linux AWS machine) and returns JSON which is used to create beautiful doughnut charts for ease of comprehension:
 
 ![alt text](https://github.com/mxzahid/newsApp/blob/main/reactAppShowViz.png?raw=true)
 
